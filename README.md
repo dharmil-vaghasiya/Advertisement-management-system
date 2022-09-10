@@ -1,6 +1,6 @@
 # Advertisement-management-system
 
-documentation : https://drive.google.com/file/d/1Z_OVdAQAN0-V1aVS5RA-uEOLDvn8hBhC/view?usp=sharing
+Documentation : https://drive.google.com/file/d/1Z_OVdAQAN0-V1aVS5RA-uEOLDvn8hBhC/view?usp=sharing
 Youtube Demo video- https://youtu.be/5F9fGw4cHTw   
 
 Introduction : Web based application of Advertisement management system, it will provide platform for Local brands/shops as well as local influencers to get connect. 
